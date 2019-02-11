@@ -26,6 +26,6 @@ for x, y in dataloader:
 
 ## Отладка моделек в pytorch
 
-Вы можете нарисовать граф с помощью пакета pytorchviz и убедиться, что код отражает ваши намерения:
+Вы можете нарисовать граф с помощью пакета [torchviz](https://github.com/szagoruyko/pytorchviz) и убедиться, что код отражает ваши намерения:
 
 https://github.com/szagoruyko/pytorchviz/blob/master/examples.ipynb
